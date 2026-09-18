@@ -1,6 +1,6 @@
-[submodule "infra"]
-	path = infra
+[submodule "kube-infra"]
+	path = kube-infra
 	url = https://github.com/Deniz09OK/kube-infra
-[submodule "app"]
-	path = app
+[submodule "kube-app"]
+	path = kube-app
 	url = https://github.com/Deniz09OK/kube-app
