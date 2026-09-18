@@ -1,0 +1,6 @@
+[submodule "infra"]
+	path = infra
+	url = https://github.com/Deniz09OK/kube-infra
+[submodule "app"]
+	path = app
+	url = https://github.com/Deniz09OK/kube-app
